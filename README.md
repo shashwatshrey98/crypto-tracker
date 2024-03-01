@@ -1,4 +1,4 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+# Cryptocurrency Tracker with React JS, Material UI, Coingecko API and Chart JS
 
 
 
